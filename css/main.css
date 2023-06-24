@@ -516,20 +516,19 @@ img {
   --color-accent-dark-theme-rgb: 253, 249, 207;
   --color-accent: var(--color-accent-light-theme);
   --color-accent-rgb: 101, 100, 83;
-  /* Border colors */
-  --color-border-opacity-light-theme: rgba(32, 33, 32, .2);
-  --color-border-opacity-dark-theme: rgba(255, 255, 255, .2);
-  --color-border-opacity: var(--color-border-opacity-light-theme);
-  --color-border-solid-light-theme: #20211F;
-  --color-border-solid-dark-theme: #fff;
-  --color-border-solid: var(--color-border-solid-light-theme);
-  /* Links colors */
-  --color-links-light-theme: #666;
-  --color-links-dark-theme: #fff;
-  --color-links: var(--color-links-light-theme);
-  --color-classic-submenu-links: #000;
-  --color-classic-submenu-links-hover: #656453;
-  --color-classic-submenu-links-hover-background: #65645315;
+  --color-accent-business-name: #864d25;
+  --color-accent-business-name-rgb: 134, 77, 37;
+  --color-accent-slogan: #F9E2E2;
+  --color-accent-slogan-rgb: 249, 226, 226;
+  --color-accent-icon: #85144b;
+  --color-accent-icon-rgb: 133, 20, 75;
+  --color-accent-background: #0D0C0C;
+  --color-accent-background-rgb: 13, 12, 12;
+  --color-accent-background-elements: #f00b51;
+  --color-accent-background-elements-rgb: 240, 11, 81;
+  --color-accent-foreground-elements: #000000;
+  --color-accent-foreground-elements-rgb: 0, 0,
+
 }
 
 /*!========================================================================
